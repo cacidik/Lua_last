@@ -1,0 +1,168 @@
+DAUM LIVE STREET
+Extension/api.txt,01d8586c,6c7993d1,000026f5
+Extension/Subtitle/Search/SubtitleSearch - Napisy24.as,01d8586c,6c785b56,000010c0
+Extension/Subtitle/Search/SubtitleSearch - Napisy24.ico,01d8586c,6c78825f,0000bd3e
+Extension/Subtitle/Search/SubtitleSearch - OpenSubtitle.as,01d8586c,6c78825f,0000424a
+Extension/Subtitle/Search/SubtitleSearch - OpenSubtitle.ico,01d8586c,6c78825f,0000037e
+Extension/Subtitle/Search/SubtitleSearch - podnapisi.as,01d8586c,6c78a975,00002c64
+Extension/Subtitle/Search/SubtitleSearch - podnapisi.ico,01d8586c,6c78d085,000087f6
+Extension/Subtitle/Search/SubtitleSearch - SubDB.as,01d8586c,6c78825f,000012aa
+Extension/Subtitle/Search/SubtitleSearch - SubDB.ico,01d8586c,6c78a975,00001636
+Extension/Subtitle/Search/SubtitleSearch - titlovi.as,01d8586c,6c78d085,0000179c
+Extension/Subtitle/Search/SubtitleSearch - titlovi.ico,01d8586c,6c78d085,0000057e
+Extension/Subtitle/Search/SubtitleSearch - ysubs.as,01d8586c,6c78f791,0000165a
+Extension/Subtitle/Search/SubtitleSearch - ysubs.ico,01d8586c,6c78f791,0000047e
+Extension/Subtitle/Translate/SubtitleTranslate - bing.as,01d8586c,6c791ea5,00001284
+Extension/Subtitle/Translate/SubtitleTranslate - bing.ico,01d8586c,6c7945b3,00004316
+Extension/Subtitle/Translate/SubtitleTranslate - google.as,01d8586c,6c7945b3,0000149f
+Extension/Subtitle/Translate/SubtitleTranslate - google.ico,01d8586c,6c7945b3,00001536
+Extension/Subtitle/Translate/SubtitleTranslate - papago.as,01d9104b,23177246,00000040
+Extension/Subtitle/Translate/SubtitleTranslate - papago.ico,01d8586c,6c796cc5,00001ece
+Extension/Subtitle/Translate/SubtitleTranslate - papagoNMT.as,01d8586c,6c796cc5,00000ebe
+Extension/Subtitle/Translate/SubtitleTranslate - papagoNMT.ico,01d8586c,6c7993d1,00001ece
+Extension/Subtitle/Translate/SubtitleTranslate - Yandex.as,01d8586c,6c791ea5,00000fd6
+Extension/Subtitle/Translate/SubtitleTranslate - Yandex.ico,01d8586c,6c791ea5,00001536
+Extension/Media/PlayParse/MediaPlayParse - YouTube.as,01d9104b,23174b31,000121bf
+Extension/Media/PlayParse/MediaPlayParse - YouTube.ico,01d8586c,6c779807,0000047e
+Extension/Media/UrlList/MediaUrlList - YouTube.as,01d8586c,6c780d33,00001e86
+Extension/Media/UrlList/MediaUrlList - YouTube.ico,01d8586c,6c780d33,0000423e
+Skins/Default.dsf,01d9104b,25301921,00068ddb
+Skins/WindowFrame.dsf,01d9104b,25306703,00067f47
+UrlList/Radio.asx,01d8586c,6f66a6b0,0000004c
+UrlList/TV.asx,01d8586c,6f66a6b0,00000023
+Language/Arabic.ini,01d9104b,246bb773,0003e4e1
+Language/Armenian.ini,01d8586c,6e74525c,0003ecd1
+Language/Azerbaijan.ini,01d8586c,6e747977,00029e5a
+Language/Belarusian.ini,01d8586c,6e74a07b,00038ce8
+Language/Bulgarian.ini,01d93a45,86db163d,00047c61
+Language/Bulgarian.ini,01d93a45,86db163d,00047c61
+Language/Catalan.ini,01d93c5b,2f62118a,0002aa48
+Language/Chinese(Simplified).ini,01d9104b,246c7b22,00025a82
+Language/Chinese(Traditional).ini,01d9104b,246ca1d4,000277a6
+Language/Czech.ini,01d9104b,246cf026,0002ebf6
+Language/Dutch.ini,01d8586c,6e75d902,0002bb89
+Language/English.ini,01d93a45,86db64b8,00029051
+Language/French.ini,01d93c5b,2f623897,0002f64a
+Language/German.ini,01d8586c,6e764e36,00025af5
+Language/Greek.ini,01d8586c,6e767545,0003d523
+Language/Hebrew.ini,01d8586c,6e769c54,0002c772
+Language/Hongkonglocale.ini,01d8586c,6e76c367,000224a6
+Language/Hungarian.ini,01d93a45,86db8b6f,000316b5
+Language/Indonesian.ini,01d8586c,6e773897,0002897c
+Language/Italian.ini,01d8586c,6e775fa3,0002c7ff
+Language/Japanese.ini,01d8586c,6e77adc1,0002ea1f
+Language/Korean.ini,01d9104b,246dda6d,0002c202
+Language/Kurdish.ini,01d8586c,6e77fbe1,000337ec
+Language/Persian.ini,01d93a45,86dbd993,0004033b
+Language/Polish.ini,01d93a45,86dc27a9,000327ad
+Language/Portuguese.ini,01d93a45,86dc4edc,0002d0a0
+Language/Russian.ini,01d9104b,246ec4e6,00041855
+Language/Serbian.ini,01d8586c,6e7c41a7,00037599
+Language/Spanish.ini,01d93c5b,2f6286ba,0002b757
+Language/Swedish.ini,01d8586c,6e7c8fc5,000245eb
+Language/Thai.ini,01d8586c,6e7d2c05,00041e05
+Language/Turkish.ini,01d8586c,6e7d7a2c,0002d1c6
+Language/Ukrainian.ini,01d8586c,6e7da136,0003b5f5
+Language/Uzbek(Latin).ini,01d8586c,6e7dc840,0002bee5
+Language/Tajik(Cyrillic).ini,01d8586c,6e7cdded,00024740
+History/Bulgarian.txt,01d93a45,86d8a551,000283a0
+History/Chinese(Simplified).txt,01d93a45,86d8cc47,0001f6c0
+History/Chinese(Traditional).txt,01d93a45,86d91a71,00020100
+History/English.txt,01d93a45,86d941ae,00024614
+History/Hungarian.txt,01d93a45,86d96885,00014488
+History/Japanese.txt,01d93a45,86d98f9f,00024eb3
+History/Korean.txt,01d93c5b,2f61c368,00024c49
+History/Polish.txt,01d93a45,86da04cc,00027b62
+History/Russian.txt,01d93a45,86da2bdb,00033fd6
+History/Serbian.txt,01d93a45,86da52ed,000135a2
+History/Turkish.txt,01d93a45,86daa110,000287e6
+History/Ukrainian.txt,01d93a45,86dac81b,00020f88
+License.txt,01d8586c,6e81e6ea,0000d0c7
+CmdLine64.txt,01d9104b,22f32164,0000bc40
+IconPack/OldIconPack.dll,01d8586c,6e7081d6,00178bb8
+IconPack/PotIconsNew.dll,01d8586c,6e716c31,0027a3b8
+Logos/PotPlayer.png,01d8586c,6e825bfa,00002108
+PotIcons64.dll,01d8586c,6f53d948,00266fb8
+DaumCrashHandler64.dll,01d8586c,6c5df589,000268a0
+ATextOut64.dll,01d8586c,6b78ecbb,000d9c00
+GameCaptureHook64.dll,01d9104b,2465eb48,0009b218
+GameCaptureHook.dll,01d9104b,24654f03,0007fc18
+ffcodec64.dll,01d93f5c,69823789,01e43800
+DesktopHook64.dll,01d8586c,6c5e91cd,00015ca0
+DesktopHook.dll,01d8586c,6c5e43b8,00012ca0
+DesktopHook.exe,01d8586c,6c5e6aba,000140a0
+DesktopHook64.exe,01d8586c,6c5eb8e0,00017ca0
+PotPlayer64.dll,01d940cf,0dfd569f,01b56000
+PotPlayer64.exe,01d8586c,6dee597f,0003e1c0
+LGPL.TXT,01d8586c,6e740442,00006931
+DTDrop64.exe,01d8586c,6c5b3661,00027ea0
+CaptureUWP64.dll,01d8586c,6bb2733e,00021ca0
+MediaDB64.dll,01d940ce,1573a046,0088b010
+PotScreenSaver64.scr,01d8586c,6f55689e,0003c6a0
+Alarm.wav,01d8586c,6b7a4c45,0003a462
+PotPlayerMini64.exe,01d8586c,6def1cd0,0003dbc0
+d3dx9_43.dll,01d8586c,6c5ac146,0024a358
+d3dcompiler_47.dll,01d8586c,6c58ed9c,003fb068
+PxShader/Adaptive sharpen(Contrast).txt,01d8586c,6f55689e,00000fad
+PxShader/Adaptive sharpen.txt,01d8586c,6f558fb2,000026ae
+PxShader/BT601BT709.txt,01d8586c,6f558fb2,000002b4
+PxShader/Contour.txt,01d8586c,6f55b6be,00000256
+PxShader/Deinterlace (blend).txt,01d8586c,6f562bed,00000178
+PxShader/Denoise.txt,01d8586c,6f562bed,000003a7
+PxShader/DisplayLessThan16 v1_1.txt,01d8586c,6f5652ff,000002c5
+PxShader/EdgeSharpen v1_1(jim ro).txt,01d8586c,6f5652ff,000006a0
+PxShader/EdgeSharpen v1_1.txt,01d8586c,6f5652ff,000007d7
+PxShader/Emboss.txt,01d8586c,6f5652ff,00000289
+PxShader/GrayScale.txt,01d8586c,6f567a0f,00000173
+PxShader/HorzFlip.txt,01d8586c,6f56a131,000001b4
+PxShader/Invert.txt,01d8586c,6f56a131,000000b8
+PxShader/LCD angle correction.txt,01d8586c,6f56a131,0000064d
+PxShader/Letterbox.txt,01d8586c,6f56a131,0000016f
+PxShader/Levels.txt,01d8586c,6f56c830,0000010d
+PxShader/Levels2.txt,01d8586c,6f56c830,000001a6
+PxShader/MaskBox.txt,01d8586c,6f56ef48,0000019f
+PxShader/NightVision.txt,01d8586c,6f56ef48,000000d2
+PxShader/Procamp.txt,01d8586c,6f57164f,000007bc
+PxShader/Remap_16_235.txt,01d8586c,6f573d5e,0000021f
+PxShader/Sharpen.txt,01d8586c,6f573d5e,000003a8
+PxShader/Sharpen_3x3.txt,01d8586c,6f57646e,00000425
+PxShader/Sharpen_5x5.txt,01d8586c,6f57646e,000008b2
+PxShader/SharpenComplex (jim ro).txt,01d8586c,6f573d5e,00000765
+PxShader/SharpenComplex2.txt,01d8586c,6f57646e,00000a85
+PxShader/SharpenFlou (jim ro).txt,01d8586c,6f57646e,00000696
+PxShader/Sphere.txt,01d8586c,6f578b7a,00000594
+PxShader/Spotlight.txt,01d8586c,6f578b7a,000001d7
+PxShader/Undot.txt,01d8586c,6f57b28e,000006fe
+PxShader/Unsharp mask.txt,01d8586c,6f57b28e,000006bf
+PxShader/VertFlip.txt,01d8586c,6f57d99e,000001b4
+PxShader/Wave.txt,01d8586c,6f5800c8,00000184
+PxShader/YV12 Chroma Upsampling.txt,01d8586c,6f5800c8,00000866
+AviSynth/ColorBars.avs,01d8586c,6bac31c4,00000021
+AviSynth/FasterTrueMotion.avs,01d8586c,6bac58ca,000002f7
+AviSynth/FastestTrueMotion.avs,01d8586c,6bac7fc5,00000220
+AviSynth/FastTrueMotion.avs,01d8586c,6bac58ca,000000d1
+AviSynth/FastTrueMotionNoGPU.avs,01d8586c,6bac58ca,000000d2
+AviSynth/OverlayText.avs,01d8586c,6bacf503,000004ca
+AviSynth/TrueMotion.avs,01d8586c,6baddf64,000000c0
+AviSynth/TrueMotionNoGPU.avs,01d8586c,6bae067e,000000c1
+AviSynth/TrueMotion2.avs,01d8586c,6baddf64,000001c4
+AviSynth/TrueMotion2NoGPU.avs,01d8586c,6baddf64,000001c5
+VapourSynth/Histogram.vpy,01d8586c,6f66cdbf,00000057
+VapourSynth/motioninterpolation.vpy,01d8586c,6f66cdbf,0000093e
+Menus/SimpleMenu.xml,01d8586c,6e8fbf29,000006df
+Module/Bass64/bass.dll,01d8586c,6e91e20b,00038600
+Module/Bass64/bass_ape.dll,01d8586c,6e92091a,00010e00
+Module/Bass64/bass_flac.dll,01d8586c,6e92302a,0000ba00
+Module/Bass64/bass_mpc.dll,01d8586c,6e92573a,0000c600
+Module/Bass64/bass_tta.dll,01d8586c,6e92573a,00003000
+Module/Bass64/bass_wv.dll,01d8586c,6e927e49,00010000
+Module/Bass64/bass_ofr.dll,01d8586c,6e92573a,00002200
+Module/Bass64/OptimFROG.dll,01d8586c,6e91baf6,00033000
+Module/AcmVorbis64.dll,01d8586c,6e90a982,000b8200
+Module/MediaInfo64.dll,01d93a45,872ef3fe,00651190
+Module/QuickSync64.dll,01d9104b,24caeea2,00083e50
+Html/Init.htm,01d9104b,24685c4a,00000e5b
+Html/InitMini.htm,01d8586c,6e6fe599,00000b96
+Html/ErrorList.htm,01d9104b,2468353a,00001100
+Html/ErrorListMini.htm,01d8586c,6e6fbe88,00000c11
+Html/loading.gif,01d8586c,6e6fe599,000053c8
